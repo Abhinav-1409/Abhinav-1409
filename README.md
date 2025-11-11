@@ -28,5 +28,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+[![An image of @abhinav1409's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhinav1409)](https://holopin.io/@abhinav1409)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhinav-1409" alt="Abhinav-1409" /></a> </p>
